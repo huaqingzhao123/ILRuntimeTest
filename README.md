@@ -1,2 +1,4 @@
 # ILRuntimeTest
 ILRuntime热更新
+运行ILRuntimeTest下的实例场景查看结果，示例展示了在主工程中为游戏物体添加热更工程中的mono脚本，并调用其中方法，其它使用示例可参考github上的ILRuntime Demo
+打包前或者热更脚本更新后需打开工具箱编译热更dll
